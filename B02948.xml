@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the better raising and levying of mariners, sailers [sic], and others, for the present guarding of the seas, and necessary defence of this realm, and other his Majesties dominions.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02948</idno>
+            <idno type="STC">Wing E1099B</idno>
+            <idno type="STC">ESTC R176458</idno>
+            <idno type="EEBO-CITATION">52612401</idno>
+            <idno type="OCLC">ocm 52612401</idno>
+            <idno type="VID">179430</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02948)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179430)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2788:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the better raising and levying of mariners, sailers [sic], and others, for the present guarding of the seas, and necessary defence of this realm, and other his Majesties dominions.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <p>
+                     <name type="place">[London : Printed by Robert Barker, and by the assignes of John Bill,</name>
+                     <date>1641]</date>
+                  </p>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Initial letter; headpiece, tailpiece.</note>
+                  <note>Text in black letter.</note>
+                  <note>Imperfect: blurred print with some loss of text.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Royal Navy --  Recruiting, enlistment, etc. --  Law and legislation --  17th century.</term>
+               <term>Great Britain --  Politics and government --  1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="act">
+            <pb facs="tcp:179430:1"/>
+            <!-- PDF PAGE 14 -->
+            <pb facs="tcp:179430:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <head>ANNO XVII. Caroli Regis.</head>
+            <argument>
+               <p>¶ An Act for the better Rai<g ref="char:EOLhyphen"/>ſing and Levying of Mariners, Sailers, and others, for the preſent guarding of the Seas, and neceſſary defence of this Realm, and other His Ma<g ref="char:EOLhyphen"/>jeſties Dominions.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the late Act, intitu<g ref="char:EOLhyphen"/>led, <hi>An Act for the better raiſing and levying of Mari<g ref="char:EOLhyphen"/>ners, Sailers, and others, for the preſent guarding of the Seas, and neceſſary defence of the Realm, and other His Ma<g ref="char:EOLhyphen"/>jeſties Dominions,</hi> is found by experience to be ineffe<g ref="char:EOLhyphen"/>ctuall for the ſupply of the preſent expedition now in<g ref="char:EOLhyphen"/>tended for the defence of all His Majeſties Realms and Dominions, by reaſon of ſundry reſtrictions
+<pb facs="tcp:179430:2"/>
+               <!-- PDF PAGE 15 -->
+and doubtfull limitations in the ſaid Act: And for<g ref="char:EOLhyphen"/>aſmuch as it highly importeth the ſafetie of all His Majeſties ſaid Dominions, that ſeverall Fleets of Ships be with all poſſible ſpeed ſet forth to the Seas, and all manner of diligence he uſed therein, for the raiſing of Mariners, Sailers, and others, to that purpoſe,</p>
+            <p>Be it therefore enacted by the authority of this preſent Parliament, That the Lord Admirall that now is, ſhall and may, at any time or times between the firſt day of February 1641. and the firſt of No<g ref="char:EOLhyphen"/>vember 1642. by himſelf, his Vice-Admirall, Commiſſioner, or Commiſſioners, or other Officer or Officers, or any of them, Levie, and Impreſſe ſuch, and ſo many Mariners, Sailers, Wa<g ref="char:EOLhyphen"/>ter-men, Chirurgions, Gunners, and Ship-Carpenters, as ſhall be requiſite and neceſſary for this preſent expedition or for any ſuch further defence of the Realm, or any other of His Majeſties Do<g ref="char:EOLhyphen"/>minions; Which ſaid Mariners, Sailers, and other ſuch perſons ſo to be Levied and Impreſſed, as aforeſaid, and every of them, ſhall have paid and delivered unto him upon ſuch his Impreſſing, by the perſon that ſhal ſo Impreſſe him, for Conduct monie, for every mile from the place where he ſhall be ſo Im<g ref="char:EOLhyphen"/>preſſed, to the Ship or place to which he ſhall be ap<g ref="char:EOLhyphen"/>pointed to make his repair, the ſum of one peny, and the like ſum of one peny for every mile from the place of his diſcharge unto the place of his abode, and ſhall be allowed for his Service the beſt Wages and entertainment which have or hath been allowed by His Majeſtie, to any ſuch perſon or perſons re<g ref="char:EOLhyphen"/>ſpectively, at any time within three yeers fall paſt.
+<pb facs="tcp:179430:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 15 -->
+And if any Manner, Sailer, Water-men, Chirur<g ref="char:EOLhyphen"/>gion, Gunner, or Ship-Carpenter, ſhall wilfully refuſe to be Impreſſed, in, or for the ſaid Service, or ſhall voluntarily hide and abſent himſelf at the time of ſuch Preſſe, to avoid the ſaid Service, That then every ſuch perſon ſo offending ſhall ſuffer Impri<g ref="char:EOLhyphen"/>ſonment by the ſpace of three moneths without <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ail or Mainpriſe.</p>
+            <p>Provided alwayes that this Act ſhall not extend to the preſſing of any Maſter of any Ship or Barque, that hath the charge of any Ship or Barque, or unto any Maſters-Mate, or Ship-Car<g ref="char:EOLhyphen"/>penter of any Ship or Barque that is in imployment at the time of the ſaid preſſe.</p>
+            <p>Provided alwayes, and be it enacted, That no Money, or other reward, ſhall be taken, or any cor<g ref="char:EOLhyphen"/>rupt practice uſed by any the perſons authorized by this Act, in or for the Preſſing, Cha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ging, Sparing, or Diſcharging of any perſon or perſons to be Im<g ref="char:EOLhyphen"/>preſſed by force of this Act, under pain of forfeiture of twenty pounds by the perſon ſo offending, for every ſuch offence; the one half to His Majeſtie, His Her<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Succeſſours, the other half to him that will ſue for the ſame, to be recovered by Action of debt, Bill, Plaint, or Information in any of His Majeſties Courts of Records, or before the Iuſtices of Aſſiſe, Oyer and Terminer, Goal-Delivery, or the Iuſtices of the Peace of the County, City, or Town-Corporate where ſuch offence ſhall be com<g ref="char:EOLhyphen"/>mitted, at their generall quarter Seſſions, wherein no Wager of Law, Eſſoign, Protection, or Injuncti<g ref="char:EOLhyphen"/>on ſhall be admitted or allowed.</p>
+            <p>Provided alwayes, and be it further enacted by
+<pb facs="tcp:179430:3"/>
+               <!-- PDF PAGE 16 -->
+the Authority aforeſaid, that one other Act intitu<g ref="char:EOLhyphen"/>led, <hi>An Act for the better raiſing and levying of Mariners, Sailers, and others, for the preſent guarding of the Seas, and neceſſary defence of the Realm, and other His Majeſties Do<g ref="char:EOLhyphen"/>minions,</hi> made in this preſent Parliament, and now in force, and every Article, Clauſe, and Proviſion there<g ref="char:EOLhyphen"/>in contained, be from the firſt day of February in the yeer of our Lord God one thouſand ſix hun<g ref="char:EOLhyphen"/>dred fourty one Repealed and made utterly void and of none effect. (<g ref="char:dtristar">*⁎*</g>)</p>
+         </div>
+      </body>
+   </text>
+</TEI>
